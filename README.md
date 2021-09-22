@@ -1,14 +1,9 @@
 ### Hi 👋 , I am Tanvir  .
 
 
-<a href="https://stackoverflow.com/users/3409234/tanvirchowdhury">
-  <img align="left"  width="21px" />
-</a>
-
 
 - 🔭  I’m a Full stack software developer.
 - 🌱  I’m currently Working with Java and Spring framework .
-- 👯  I have the experience to build android application as well.
 - 📫  Reach me in mail : tanvircomilla@yahoo.com
 - 😄  Skyp : bording.vista.tac
 - ⚡  Coding is fun with logic that i love.
