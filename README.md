@@ -2,7 +2,7 @@
 
 
 <a href="https://stackoverflow.com/users/3409234/tanvirchowdhury">
-  <img align="left" alt="Tanvir | StackOverflow" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/stackoverflow.png"/>
+  <img align="left"  width="21px" />
 </a>
 
 
