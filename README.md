@@ -11,7 +11,7 @@
 
 <a href="http://stackoverflow.com/users/3409234/tanvirchowdhury">
   <img align="left" alt="Tanvir | StackOverflow" width="30px" src="https://github.com/stephsharp/badgeoverflow/blob/master/assets/images/badgeoverflow_logo.png"/>
-  StackOverflow
+  My StackOverflow
 </a>
 
 
