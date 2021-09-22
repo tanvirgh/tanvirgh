@@ -1,9 +1,11 @@
 ### Hi 👋 , I am Tanvir  .
 
 <a href="http://stackoverflow.com/users/3409234/tanvirchowdhury">
-  <img align="left" alt="Rana | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+  <img align="left" alt="Tanvir | StackOverflow" width="21px" src="https://github.com/stephsharp/badgeoverflow/blob/master/assets/images/badgeoverflow_logo.png"/>
 </a>
 
+<br>
+<br>
 - 🔭  I’m a Full stack software developer.
 - 🌱  I’m currently Working with Java and Spring framework .
 - ⚡  Coding is fun with logic that i love.
