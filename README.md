@@ -8,6 +8,9 @@
 - 🌱  I’m currently Working with Java and Spring framework .
 - ⚡  Coding is fun with logic that i love.
 <br>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <a href="http://stackoverflow.com/users/3409234/tanvirchowdhury">
   <img align="left" alt="Tanvir | StackOverflow" width="25px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/icon-48.png"/>
   StackOverflow
