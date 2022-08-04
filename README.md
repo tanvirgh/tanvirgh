@@ -4,7 +4,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/tanvir.chowdhury.313/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:comillatanvir@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-[![Stackoverflow Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](http://stackoverflow.com/users/3409234/tanvirchowdhury")
+[![Stackoverflow Follow](https://cdn.sstatic.net/Sites/stackoverflow/Img/icon-48.png)](http://stackoverflow.com/users/3409234/tanvirchowdhury")
 
 <br>
 - 🔭  I’m a Full stack software developer.
