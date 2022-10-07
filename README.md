@@ -12,8 +12,18 @@
 <br>
 
 ### Visual Overview<br>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-gray?logo=hibernate&logoColor=white&labelColor=C0B381&color=637075)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&color=FEA517&labelColor=5382A1)
+![Android](https://img.shields.io/badge/Android-000?logo=android)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white&labelColor=black&color=C3203D)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tanvirgh&theme=vue&show_icons=true&count_private=true&hide=issues,contribs)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanvirgh)](https://git.io/streak-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirgh&layout=compact)
 <br>
 #### Visitor Counter<br>
