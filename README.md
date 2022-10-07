@@ -23,9 +23,9 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tanvirgh&theme=vue&show_icons=true&count_private=true&hide=issues,contribs)
-<p></p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanvirgh)](https://git.io/streak-stats)
-<p></p>
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirgh&layout=compact)
 <br>
 #### Visitor Counter<br>
