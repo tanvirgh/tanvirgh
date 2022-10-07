@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img src="/1629298985910.jpg" alt="Banner">
+  <img src="tanvirgh/1629298985910.jpeg" alt="Banner">
 </p>
 
 
