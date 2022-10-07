@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img src="/assets/Banner_github_arifng_small.jpg" alt="Banner">
+  <img src="https://www.linkedin.com/in/ahmed-tanvir-chowdhury/overlay/background-image/" alt="Banner">
 </p>
 
 
