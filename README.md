@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img src="/1629298985910.jpeg" alt="Banner">
+  <img src="/1629298985910.jpeg" style="width=100%" alt="Banner">
 </p>
 
 
