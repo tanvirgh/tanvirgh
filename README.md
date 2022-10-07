@@ -6,6 +6,7 @@
 [![Stackoverflow](https://cdn.sstatic.net/Sites/stackoverflow/Img/icon-48.png)](http://stackoverflow.com/users/3409234/tanvirchowdhury")
 
 <br>
+<br>
 - 🔭  I’m a Full stack software developer.
 - 🌱  I’m currently Working with Java and Spring framework based Web application .
 - ⚡   Expereinced Web and Android applicaiton developer.
@@ -27,6 +28,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanvirgh)](https://git.io/streak-stats)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirgh&layout=compact)
+<br>
 <br>
 #### Visitor Counter<br>
 ![Visitor Count](https://profile-counter.glitch.me/{tanvirgh}/count.svg)
