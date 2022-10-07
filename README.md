@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img src="https://www.linkedin.com/in/ahmed-tanvir-chowdhury/overlay/background-image/" alt="Banner">
+  <img src="/1629298985910.jpg" alt="Banner">
 </p>
 
 
